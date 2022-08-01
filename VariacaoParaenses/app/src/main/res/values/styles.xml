@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Background">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/background_acai</item>
+    </style>
+    <style name="Gradiente">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">120dp</item>
+        <item name="android:background">@drawable/gradiente</item>
+    </style>
+    <style name="Gradiente1">
+        <item name="android:layout_width">110dp</item>
+        <item name="android:layout_height">110dp</item>
+        <item name="android:background">@drawable/gradiente1</item>
+        <item name="android:angle">90</item>
+    </style>
+    <style name="Enxerido">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/enxerido</item>
+    </style>
+    <style name="Mentira">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/mentira</item>
+    </style>
+    <style name="Se_deu_mal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/se_deu_mal</item>
+    </style>
+    <style name="Te_abaixa">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/te_abaixa</item>
+    </style>
+    <style name="Se_apresse">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/se_apresse</item>
+    </style>
+    <style name="Vamos_embora">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/vamos_embora</item>
+    </style>
+    <style name="Cachaceiro">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/cachaceiro</item>
+    </style>
+    <style name="Brigar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/brigar</item>
+    </style>
+    <style name="Amassar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/amassar</item>
+    </style>
+</resources>
